@@ -3,6 +3,8 @@
 # Motivation
 Recently, I have been interested in the real-estate market. Many of the websites I use to look at listings provide details about the home itself, but don’t necessarily compare the list price against other homes available on the market. I wanted to create a dashboard where I can select a listing, and compare the list price against similar homes that are available. 
 
+You can find the dashboard at this [link](https://dash-app-ctyqyt7wvq-uc.a.run.app/).
+
 # Technologies Used
 Different technologies were used to complete this project. Below is a list of technologies and products that were used. 
 
